@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhonesto
-- 👀 I’m interested in Java | Microservices
-- 🌱 I’m currently learning Java | Typescript | Angular | Python
-- 💞️ I’m looking to collaborate on backend and frontend projects
+- 👀 I’m interested in Java | Linux | DevOps | Security
+- 🌱 I’m currently learning Java | ShellScript | Perl | Linux | Typescript | Angular | Python
+- 💞️ I’m looking to collaborate mostly on backend projects
 
 <!---
 jhonesto/jhonesto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
